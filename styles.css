@@ -3,7 +3,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #0D1B2A;
+  background-color: #0D1B2A !important;
 }
 
 #quote-box {
